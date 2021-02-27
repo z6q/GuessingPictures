@@ -1,0 +1,524 @@
+[
+  {
+    "jahr": 1530,
+    "name": "Sultan Suleiman",
+    "job": "Sultan des Osmanischen Reiches",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/800px-EmperorSuleiman.jpg"
+  },
+  {
+    "jahr": 1540,
+    "name": "Henry VIII",
+    "job": "König von England",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Enrique_VIII_de_Inglaterra%2C_por_Hans_Holbein_el_Joven.jpg/800px-Enrique_VIII_de_Inglaterra%2C_por_Hans_Holbein_el_Joven.jpg"
+  },
+  {
+    "jahr": 1902,
+    "name": "Wilhelm II",
+    "job": "Kaiser des deutschen Reiches",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kaiser_Wilhelm_II_of_Germany_-_1902.jpg/800px-Kaiser_Wilhelm_II_of_Germany_-_1902.jpg"
+  },
+  {
+    "jahr": 1938,
+    "name": "Adolf Hitler",
+    "job": "Diktator des dritten Reichs",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Hitler_portrait_crop.jpg"
+  },
+  {
+    "jahr": 1942,
+    "name": "Joseph Stalin",
+    "job": "Diktator der Sowjetunion",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/JStalin_Secretary_general_CCCP_1942.jpg/330px-JStalin_Secretary_general_CCCP_1942.jpg"
+  },
+  {
+    "jahr": 1941,
+    "name": "Winston Churchill",
+    "job": "Premierminister von Großbritannien",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/330px-Sir_Winston_Churchill_-_19086236948.jpg"
+  },
+  {
+    "jahr": 1558,
+    "name": "Mary Stuart",
+    "job": "Königin von Schottland",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MaryStuartbyClouet.jpg/330px-MaryStuartbyClouet.jpg"
+  },
+  {
+    "jahr": 1882,
+    "name": "Queen Victoria",
+    "job": "Königin von Großbritannien",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/330px-Queen_Victoria_by_Bassano.jpg"
+  },
+  {
+    "jahr": 1894,
+    "name": "Otto von Bismarck",
+    "job": "Deutscher Reichskanzler",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Franz_von_Lenbach_Bismarck_1894.jpg/330px-Franz_von_Lenbach_Bismarck_1894.jpg"
+  },
+  {
+    "jahr": 1530,
+    "name": "Franz I",
+    "job": "König von Frankreich",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fran%C3%A7ois_Ier_Louvre.jpg/330px-Fran%C3%A7ois_Ier_Louvre.jpg"
+  },
+  {
+    "jahr": 1445,
+    "name": "Karl VII",
+    "job": "König von Frankreich",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KarlVII.jpg/330px-KarlVII.jpg"
+  },
+  {
+    "jahr": 1300,
+    "name": "Richard Löwenherz",
+    "job": "König von England",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/4/49/Richard_coeurdelion_g.jpg"
+  },
+  {
+    "jahr": 1717,
+    "name": "Peter der Große",
+    "job": "Zar von Russland",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/J.-M._Nattier_%28d%27apr%C3%A8s%29_-_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg/330px-J.-M._Nattier_%28d%27apr%C3%A8s%29_-_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg"
+  },
+  {
+    "jahr": 1715,
+    "name": "Karl XII",
+    "job": "König von Schweden",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Karl_den_XII%2C_1682-1718%2C_king_of_Sweden_%28Axel_Sparre%29_-_Nationalmuseum_-_15793.tif/lossy-page1-330px-Karl_den_XII%2C_1682-1718%2C_king_of_Sweden_%28Axel_Sparre%29_-_Nationalmuseum_-_15793.tif.jpg"
+  },
+  {
+    "jahr": 1660,
+    "name": "Charles II",
+    "job": "König von England und Schottland",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg/330px-King_Charles_II_by_John_Michael_Wright_or_studio.jpg"
+  },
+  {
+    "jahr": 1714,
+    "name": "George I",
+    "job": "König von Großbritannien",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/King_George_I_by_Sir_Godfrey_Kneller%2C_Bt_%283%29.jpg/330px-King_George_I_by_Sir_Godfrey_Kneller%2C_Bt_%283%29.jpg"
+  },
+  {
+    "jahr": 1821,
+    "name": "George IV",
+    "job": "König von Großbritannien",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/George_IV_1821_color.jpg/330px-George_IV_1821_color.jpg"
+  },
+  {
+    "jahr": 1775,
+    "name": "Marie Antoinette",
+    "job": "Königin von Frankreich",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg/330px-Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg"
+  },
+  {
+    "jahr": 1701,
+    "name": "Ludwig XIV",
+    "job": "König von Frankreich",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/390px-Louis_XIV_of_France.jpg"
+  },
+  {
+    "jahr": 1779,
+    "name": "Ludwig XVI",
+    "job": "König von Frankreich",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ludvig_XVI_av_Frankrike_portr%C3%A4tterad_av_AF_Callet.jpg/330px-Ludvig_XVI_av_Frankrike_portr%C3%A4tterad_av_AF_Callet.jpg"
+  },
+  {
+    "jahr": 1944,
+    "name": "Franklin D. Roosevelt",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/330px-FDR_1944_Color_Portrait.jpg"
+  },
+  {
+    "jahr": 1920,
+    "name": "Vladimir Lenin",
+    "job": "Diktator der Sowjetunion",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vladimir_Lenin.jpg/330px-Vladimir_Lenin.jpg"
+  },
+  {
+    "jahr": 1956,
+    "name": "Dwight D. Eisenhower",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Eisenhower_official.jpg/330px-Eisenhower_official.jpg"
+  },
+  {
+    "jahr": 1963,
+    "name": "John F. Kennedy",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"
+  },
+  {
+    "jahr": 1931,
+    "name": "Mahatma Gandhi",
+    "job": "Anführer der indischen Unabhängigkeitsbewegung",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/330px-Mahatma-Gandhi%2C_studio%2C_1931.jpg"
+  },
+  {
+    "jahr": 2008,
+    "name": "Nelson Mandela",
+    "job": "Präsident von Südafrika",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Nelson_Mandela-2008_%28edit%29.jpg/330px-Nelson_Mandela-2008_%28edit%29.jpg"
+  },
+  {
+    "jahr": 1995,
+    "name": "Mutter Teresa",
+    "job": "Ordensschwester und wurde zur Heiligen",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/330px-Mother_Teresa_1.jpg"
+  },
+  {
+    "jahr": 1925,
+    "name": "Mustafa K. Atatürk",
+    "job": "Präsident der türkischen Republik",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Reisicumhur_Mustafa_Kemal_Cumhuriyet_Bayram%C4%B1_kutlamalar%C4%B1nda%2C_Ankara%2C_29_Ekim_1925.png/270px-Reisicumhur_Mustafa_Kemal_Cumhuriyet_Bayram%C4%B1_kutlamalar%C4%B1nda%2C_Ankara%2C_29_Ekim_1925.png"
+  },
+  {
+    "jahr": 1812,
+    "name": "Napoleon Bonaparte",
+    "job": "General und Kaiser von Frankreich",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/330px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
+  },
+  {
+    "jahr": 1855,
+    "name": "Napoleon III",
+    "job": "Präsident und Kaiser von Frankreich",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Franz_Xaver_Winterhalter_Napoleon_III.jpg/330px-Franz_Xaver_Winterhalter_Napoleon_III.jpg"
+  },
+  {
+    "jahr": 1995,
+    "name": "Margaret Thatcher",
+    "job": "Premierministerin von Großbritannien",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg/330px-Margaret_Thatcher_stock_portrait_%28cropped%29.jpg"
+  },
+  {
+    "jahr": 1970,
+    "name": "Haile Selassie",
+    "job":"Kaiser von Abessinien",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Haile_Selassie_in_full_dress_%28cropped%29.jpg/330px-Haile_Selassie_in_full_dress_%28cropped%29.jpg"
+  },
+  {
+    "jahr": 1588,
+    "name": "Elizabeth I",
+    "job":"Königin von England",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elizabeth_I_%28Armada_Portrait%29.jpg/330px-Elizabeth_I_%28Armada_Portrait%29.jpg"
+  },
+  {
+    "jahr": 1623,
+    "name": "Wiliam Shakespeare",
+    "job": "Schriftsteller",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/First_Folio_%28cropped%29.jpg/330px-First_Folio_%28cropped%29.jpg"
+  },
+  {
+    "jahr": 1863,
+    "name": "Abraham Lincoln",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Abraham_Lincoln_head_on_shoulders_photo_portrait.jpg/330px-Abraham_Lincoln_head_on_shoulders_photo_portrait.jpg"
+  },
+  {
+    "jahr": 1796,
+    "name": "George Washington",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/330px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"
+  },
+  {
+    "jahr": 1800,
+    "name": "Thomas Jefferson",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg/330px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg"
+  },
+  {
+    "jahr": 1868,
+    "name": "Charles Darwin",
+    "job": "Naturforscher und -wissenschaftler",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Charles_Darwin_by_Julia_Margaret_Cameron.jpg/330px-Charles_Darwin_by_Julia_Margaret_Cameron.jpg"
+  },
+  {
+    "jahr": 1865,
+    "name": "Karl Marx",
+    "job": "Philosoph und Gesellschaftstheoretiker",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Karl_Marx_001.jpg/330px-Karl_Marx_001.jpg"
+  },
+  {
+    "jahr": 1528,
+    "name": "Martin Luther",
+    "job": "Mönch und Initiator der Reformation",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lucas_Cranach_d.%C3%84._%28Werkst.%29_-_Portr%C3%A4t_des_Martin_Luther_%28Lutherhaus_Wittenberg%29.jpg/330px-Lucas_Cranach_d.%C3%84._%28Werkst.%29_-_Portr%C3%A4t_des_Martin_Luther_%28Lutherhaus_Wittenberg%29.jpg"
+  },
+  {
+    "jahr": 1921,
+    "name": "Albert Einstein",
+    "job": "Physiker",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Einstein_1921_portrait2.jpg/330px-Einstein_1921_portrait2.jpg"
+  },
+  {
+    "jahr": 1519,
+    "name": "Christoph Kolumbus",
+    "job": "Seefahrer und Entdecker",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/330px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg"
+  },
+  {
+    "jahr": 1689,
+    "name": "Isaac Newton",
+    "job": "Physiker",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GodfreyKneller-IsaacNewton-1689.jpg/330px-GodfreyKneller-IsaacNewton-1689.jpg"
+  },
+  {
+    "jahr": 1904,
+    "name": "Theodore Roosevelt",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/President_Theodore_Roosevelt%2C_1904.jpg/330px-President_Theodore_Roosevelt%2C_1904.jpg"
+  },
+  {
+    "jahr": 1819,
+    "name": "Amadeus Mozart",
+    "job": "Komponist",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/255px-Wolfgang-amadeus-mozart_1.jpg"
+  },
+  {
+    "jahr": 1820,
+    "name": "Ludwig van Beethoven",
+    "job": "Komponist",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/330px-Beethoven.jpg"
+  },
+  {
+    "jahr": 1875,
+    "name": "Ulysses S. Grant",
+    "job": "General im amerikanischen Bürgerkrieg",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ulysses_S._Grant_1870-1880.jpg/330px-Ulysses_S._Grant_1870-1880.jpg"
+  },
+  {
+    "jahr": 1512,
+    "name": "Leonardo da Vinci",
+    "job": "Künstler, Architekt, Ingenieur und Naturphilosoph",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/390px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg"
+  },
+  {
+    "jahr": 1775,
+    "name": "Carl von Linné",
+    "job": "Naturforscher",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723.tif/lossy-page1-330px-Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723.tif.jpg"
+  },
+  {
+    "jahr": 1981,
+    "name": "Ronald Reagan",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg"
+  },
+  {
+    "jahr": 1911,
+    "name": "Marie Curie",
+    "job": "Physikerin und Chemikerin",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Marie_Curie_%28Nobel-Chem%29.jpg/255px-Marie_Curie_%28Nobel-Chem%29.jpg"
+  },
+  {
+    "jahr": 1785,
+    "name": "Benjamin Franklin",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BenFranklinDuplessis.jpg/330px-BenFranklinDuplessis.jpg"
+  },
+  {
+    "jahr": 1278,
+    "name": "Dschingis Khan",
+    "job": "Khan der Mongolen",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/330px-YuanEmperorAlbumGenghisPortrait.jpg"
+  },
+  {
+    "jahr": 1636,
+    "name": "Charles I",
+    "job": "König von England und Schottland",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg/330px-King_Charles_I_after_original_by_van_Dyck.jpg"
+  },
+  {
+    "jahr": 1922,
+    "name": "Thomas A. Edison",
+    "job": "Erfinder und Elektroingenieur",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg"
+  },
+  {
+    "jahr": 1605,
+    "name": "James VI and I",
+    "job": "König von England und Schottland",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JamesIEngland.jpg/330px-JamesIEngland.jpg"
+  },
+  {
+    "jahr": 1875,
+    "name": "Friedrich W. Nietzsche",
+    "job": "Philologe und Philosoph",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/330px-Nietzsche187a.jpg"
+  },
+  {
+    "jahr": 1921,
+    "name": "Sigmund Freud",
+    "job": "Neurophysiologe, Psychologe und Religionskritiker",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/330px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg"
+  },
+  {
+    "jahr": 1806,
+    "name": "Alexander Hamilton",
+    "job": "einer der Gründerväter der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Alexander_Hamilton_by_John_Trumbull%2C_1806.png/330px-Alexander_Hamilton_by_John_Trumbull%2C_1806.png"
+  },
+  {
+    "jahr": 1919,
+    "name": "Woodrow T. Wilson",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/330px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg"
+  },
+  {
+    "jahr": 1746,
+    "name": "Johann S. Bach",
+    "job": "Komponist",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/b/bf/JSBach.jpg"
+  },
+  {
+    "jahr": 1604,
+    "name": "Galileo Galilei",
+    "job": "Universalgelehrter",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Galileo_Galilei_2.jpg/330px-Galileo_Galilei_2.jpg"
+  },
+  {
+    "jahr": 1649,
+    "name": "Oliver Cromwell",
+    "job": "Lordprotektor von England, Schottland und Irland nach dem englischen Bürgerkrieg",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Oliver_Cromwell_by_Robert_Walker.jpg/330px-Oliver_Cromwell_by_Robert_Walker.jpg"
+  },
+  {
+    "jahr": 1871,
+    "name": "Mark Twain",
+    "job": "Schriftsteller",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mark_Twain_photo_portrait%2C_Feb_7%2C_1871%2C_cropped_Repair.jpg/255px-Mark_Twain_photo_portrait%2C_Feb_7%2C_1871%2C_cropped_Repair.jpg"
+  },
+  {
+    "jahr": 1849,
+    "name": "Edgar A. Poe",
+    "job": "Schriftsteller",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Edgar_A._Poe_-_NARA_-_528345_%28cropped%29.jpg/330px-Edgar_A._Poe_-_NARA_-_528345_%28cropped%29.jpg"
+  },
+  {
+    "jahr": 1762,
+    "name": "George III",
+    "job": "König von Großbritannien",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/330px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg"
+  },
+  {
+    "jahr": 1871,
+    "name": "Richard Wagner",
+    "job": "Komponist",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RichardWagner.jpg/330px-RichardWagner.jpg"
+  },
+  {
+    "jahr": 1893,
+    "name": "Pjotr I. Tschaikovski",
+    "job": "Komponist",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg/330px-Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg"
+  },
+  {
+    "jahr": 1887,
+    "name": "Vincent van Gogh",
+    "job": "Maler",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Van_Gogh_Self-Portrait_with_Straw_Hat_1887-Metropolitan.jpg/330px-Van_Gogh_Self-Portrait_with_Straw_Hat_1887-Metropolitan.jpg"
+  },
+  {
+    "jahr": 1580,
+    "name": "Nikolaus Kopernikus",
+    "job": "Astronom und Arzt",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nikolaus_Kopernikus.jpg/330px-Nikolaus_Kopernikus.jpg"
+  },
+  {
+    "jahr": 1882,
+    "name": "Oscar Wilde",
+    "job": "Schrifsteller",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Oscar_Wilde_Sarony.jpg/330px-Oscar_Wilde_Sarony.jpg"
+  },
+  {
+    "jahr": 1971,
+    "name": "Richard Nixon",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nixon_30-0316a.jpg/330px-Nixon_30-0316a.jpg"
+  },
+  {
+    "jahr": 1548,
+    "name": "Karl V",
+    "job": "Kaiser des Heiligen Römischen Reiches",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Emperor_Charles_V_seated_%28Titian%29.jpg/330px-Emperor_Charles_V_seated_%28Titian%29.jpg"
+  },
+  {
+    "jahr": 1544,
+    "name": "Michelangelo Buonarroti",
+    "job": "Maler",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/330px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg"
+  },
+  {
+    "jahr": 1573,
+    "name": "Philipp II",
+    "job": "König von Spanien",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/330px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg"
+  },
+  {
+    "jahr": 1828,
+    "name": "Johann W. von Goethe",
+    "job": "Dichter",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/330px-Goethe_%28Stieler_1828%29.jpg"
+  },
+  {
+    "jahr": 1648,
+    "name": "René Descartes",
+    "job": "Philosoph, Mathematiker und Naturwissenschaftler",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/330px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg"
+  },
+  {
+    "jahr": 1890,
+    "name": "Nikola Tesla",
+    "job": "Erfinder, Physiker und Elektroingenieur",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tesla3.jpg/330px-Tesla3.jpg"
+  },
+  {
+    "jahr": 1947,
+    "name": "Harry S. Truman",
+    "job": "Präsident der USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/330px-TRUMAN_58-766-06_%28cropped%29.jpg"
+  },
+  {
+    "jahr": 1780,
+    "name": "Katharina II(Die Große)",
+    "job": "Zarin von Russland",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Catherine_II_by_J.B.Lampi_%281780s%2C_Kunsthistorisches_Museum%29.jpg/330px-Catherine_II_by_J.B.Lampi_%281780s%2C_Kunsthistorisches_Museum%29.jpg"
+  },
+  {
+    "jahr": 1906,
+    "name": "Mata Hari",
+    "job": "Agentin des Deutschen Reiches",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mata_Hari_13.jpg/255px-Mata_Hari_13.jpg"
+  },
+  {
+    "jahr": 1963,
+    "name": "Jacqueline Kennedy Onassis",
+    "job": "First Lady in den USA",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/JBK_In_Ft_Worth_%2811-22-63%29.jpg/330px-JBK_In_Ft_Worth_%2811-22-63%29.jpg"
+  },
+  {
+    "jahr": 1850,
+    "name": "Florence Nightingale",
+    "job": "Krankenschwester und Begründerin der modernen westlichen Krankenpflege",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Florence_Nightingale_CDV_by_H_Lenthall.jpg/330px-Florence_Nightingale_CDV_by_H_Lenthall.jpg"
+  },
+  {
+    "jahr": 1928,
+    "name": "Amelia M. Earhart",
+    "job": "Pilotin",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Earhart.jpg/330px-Earhart.jpg"
+  },
+  {
+    "jahr": 1955,
+    "name": "Rosa L. Parks",
+    "job": "US-Amerikanische Bürgerrechtlerin",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rosaparks.jpg/330px-Rosaparks.jpg"
+  },
+  {
+    "jahr": 1932,
+    "name": "Frida Kahlo de Rivera",
+    "job": "Malerin",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/255px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg"
+  },
+  {
+    "jahr": 1941,
+    "name": "Annelies M. Frank",
+    "job": "Autorin (Das Tagebuch der Anne Frank)",
+    "bildlink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Anne_Frank_lacht_naar_de_schoolfotograaf.jpg/255px-Anne_Frank_lacht_naar_de_schoolfotograaf.jpg"
+  }
+]

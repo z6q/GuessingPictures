@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Wann war dieses Bild?</title>
+    <link rel="stylesheet" href="design.css" />
+  </head>
+  <body>
+    <div class="nice">
+      <input
+        type="number"
+        id="wieAlt"
+        placeholder="Aus welchem Jahr stammt dieses Foto?"
+        class="einfg lightModePlaceholder"
+      />
+      <button id="submitBtn" class="btns">Submit</button>
+      <button id="nextPct" class="btns">Nächstes Bild</button>
+
+      <div id="txt" class="txt">
+        <div id="person"></div>
+        <div id="berufPerson"></div>
+        <div id="ergebnis"></div>
+        <div id="unterschied"></div>
+      </div>
+
+      <div id="imgContainer"></div>
+    </div>
+
+    <button id="lightBtn" class="lightDark">Light Mode</button>
+    <button id="darkBtn" class="lightDark">Dark Mode</button>
+
+    <script src="main.js"></script>
+  </body>
+</html>
